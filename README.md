@@ -54,3 +54,8 @@ python explainer_AI.py
 cd ../codewhisper_gui
 npm install
 npm run tauri dev
+
+the image of the working code
+
+![image](https://github.com/user-attachments/assets/cc5ce30c-93bf-4f60-b91f-5d55290933c8)
+
