@@ -1,0 +1,14 @@
+[
+  {
+    "file": "../test_code\\insecure_script.py",
+    "line": 1,
+    "message": "Possible hardcoded password",
+    "explanation": "Hardcoding passwords in code is risky. It can lead to credential leaks if the code is shared or deployed."
+  },
+  {
+    "file": "../test_code\\insecure_script.py",
+    "line": 2,
+    "message": "Use of eval/exec is dangerous",
+    "explanation": "The eval() and exec() functions can run arbitrary code. If attackers control the input, they could run harmful commands."
+  }
+]

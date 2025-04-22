@@ -1,0 +1,12 @@
+[
+  {
+    "file": "../test_code\\insecure_script.py",
+    "line": 1,
+    "message": "Possible hardcoded password"
+  },
+  {
+    "file": "../test_code\\insecure_script.py",
+    "line": 2,
+    "message": "Use of eval/exec is dangerous"
+  }
+]
